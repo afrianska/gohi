@@ -1,5 +1,5 @@
 package hi
 
 func Hi() string {
-	return "Hi"
+	return "Hi World"
 }
